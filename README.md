@@ -3,7 +3,7 @@
         Trivial Trivia
     </h1>
     <p align="center"> 
-        <i><b>Automate TikTok views, likes, & follows 👁️</b></i>
+        <i><b>iOS trivia game built with SwiftUI 📲</b></i>
     </p>
 
 [![Github][github]][github-url]
@@ -78,7 +78,7 @@
 
 [github]: https://img.shields.io/badge/💻Github-000000?style=for-the-badge
 [github-url]: https://github.com/vdutts7/trivial-trivia/
-[email]: https://img.shields.io/badge/me@vdutts7.com-FFCA28?style=for-the-badge&logo=Gmail&logoColor=00bbff&color=black
+[email]: https://img.shields.io/badge/me@vd7.io-FFCA28?style=for-the-badge&logo=Gmail&logoColor=00bbff&color=black
 [email-url]: #
 [twitter]: https://img.shields.io/badge/Twitter-FFCA28?style=for-the-badge&logo=Twitter&logoColor=00bbff&color=black
 [twitter-url]: https://twitter.com/vdutts7/
