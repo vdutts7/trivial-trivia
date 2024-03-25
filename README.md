@@ -1,5 +1,6 @@
 <div align="center">
-    <h1 align="center">
+<img src="https://res.cloudinary.com/dnz16usmk/image/upload/v1709203499/trivial-trivia-cover-vd7.png" alt="logo" width="100" height="80"  />
+<h1 align="center">
         Trivial Trivia
     </h1>
     <p align="center"> 
